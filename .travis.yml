@@ -8,7 +8,7 @@ cache:
   directories:
     - node_modules
 
-install: yarn add
+install: npm i
 #运行的脚本命令
 script:
   - npm run test:unit
